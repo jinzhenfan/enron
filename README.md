@@ -17,3 +17,5 @@ public as a result of the Enron scandal.
 * Create, select and transform features compare the performance of machine learning algorithms
 
 * Tune machine learning algorithms for maximum performance
+
+Orginally forked from: https://github.com/seifip/udacity-data-analyst-nanodegree/tree/master/P5%20-%20Identifying%20Fraud%20from%20Enron%20Emails%20and%20Financial%20Data
